@@ -1,0 +1,6 @@
+Scenario,Average annual return,Max drawdown (daily),Sharpe
+0.10% fee (base),103.64%,15.65%,2.690
+0.15% fee,91.21%,16.89%,2.504
+0.20% fee,79.82%,18.12%,2.306
+orders 5 min late,96.61%,21.62%,2.388
+orders 15 min late,68.26%,18.80%,2.068

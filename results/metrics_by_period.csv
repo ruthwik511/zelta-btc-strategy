@@ -1,0 +1,18 @@
+Metric,2018-2022 (competition period),2023-Sep 2026 (out-of-sample period)
+Gross profit (before fees),"4,618,678.59 USDT","194,788.53 USDT"
+Net profit (after fees),"2,518,495.53 USDT","103,723.53 USDT"
+Total closed trades,300,54
+Win rate,68.67%,38.89%
+Max drawdown (daily close),15.65%,22.41%
+Gross loss (before fees),"-1,573,557.80 USDT","-77,041.43 USDT"
+Average winning trade,"20,488.92 USDT","8,949.64 USDT"
+Average losing trade,"-18,108.75 USDT","-2,552.09 USDT"
+BTC buy-and-hold return,20.37%,404.52%
+Largest losing trade,"-254,786.69 USDT","-9,325.21 USDT"
+Largest winning trade,"946,504.38 USDT","30,167.38 USDT"
+Sharpe ratio,2.690,1.166
+Sortino ratio,5.419,1.979
+Average holding time (hours),70.182,330.981
+Average annual return,103.64%,21.17%
+Compound annual growth (CAGR),92.15%,20.91%
+Max drawdown (intrabar worst case),31.08%,22.62%
